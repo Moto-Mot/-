@@ -1,0 +1,24 @@
+.cursive {
+    color: aliceblue;
+    font-family: cursive;
+  }
+
+.header {
+    color: aliceblue;
+    font-family: cursive;
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(58, 59, 59);
+}
+.ul {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.about {
+  font-size: 40px;
+  font-family: cursive;
+   color: aliceblue;
+   background-color:rgb(58, 59, 59);
+}
